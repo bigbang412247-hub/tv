@@ -1,5 +1,6 @@
-# tv
-Modern TV application built with Python that lets you watch free-to-access live TV channels using M3U playlist files or M3U URLs. Features a clean interface, fast channel loading, and smooth playback. This project does not host or provide any TV channels or playlists; users must use their own authorized sources.
+# টিভি
+
+পাইথন দিয়ে তৈরি একটি আধুনিক টিভি অ্যাপ্লিকেশন, যার মাধ্যমে M3U প্লেলিস্ট ফাইল বা M3U URL ব্যবহার করে বিনামূল্যে অ্যাক্সেসযোগ্য লাইভ টিভি চ্যানেল দেখা যায়। এতে রয়েছে পরিচ্ছন্ন ইউজার ইন্টারফেস, দ্রুত চ্যানেল লোডিং এবং মসৃণ ভিডিও প্লেব্যাক। এই প্রকল্পে কোনো টিভি চ্যানেল বা প্লেলিস্ট হোস্ট বা সরবরাহ করা হয় না; ব্যবহারকারীকে অবশ্যই নিজস্ব অনুমোদিত উৎস ব্যবহার করতে হবে।
 
 ![TV Screenshot](https://github.com/bigbang412247-hub/tv/blob/f189126e03ab9f7b33acaa0bb1117d5baca9854e/photo_2026-07-07_21-13-26.jpg?raw=true)
 
