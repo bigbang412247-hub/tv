@@ -15,7 +15,7 @@ First, download and install the **TV** application from this GitHub repository.
 
 Download and install **MPV Media Player**, which is required for video playback.
 
-**Download:** https://mpv.io/installation/
+**Download:** [https://mpv.io/installation/](https://sourceforge.net/projects/mpv-net.mirror/)
 
 ### 3. Download the M3U Playlist
 
