@@ -3,30 +3,47 @@ Modern TV application built with Python that lets you watch free-to-access live 
 
 ![TV Screenshot](https://github.com/bigbang412247-hub/tv/blob/f189126e03ab9f7b33acaa0bb1117d5baca9854e/photo_2026-07-07_21-13-26.jpg?raw=true)
 
-# 📺 Installation Guide
 
-Follow the steps below to use the TV software:
 
-### 1. Download and Install the TV Software
+---
 
-First, download and install the **TV** application from this GitHub repository.
+## 📺 ইনস্টলেশন গাইড
 
-### 2. Install MPV Media Player
+### ধাপ ১: Visual C++ Redistributable ইনস্টল করুন
+- **ডাউনলোড লিংক:** [Visual C++ Redistributable (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ফাইল ডাউনলোড করে ডাবল-ক্লিক করে ইনস্টল করুন।
+- ইনস্টলেশন সম্পন্ন হলে কম্পিউটার রিস্টার্ট দিন (ঐচ্ছিক)।
 
-Download and install **MPV Media Player**, which is required for video playback.
+---
 
-**Download:** [https://mpv.io/installation/](https://sourceforge.net/projects/mpv-net.mirror/)
+### ধাপ ২: MPV Media Player ইনস্টল করুন
+- **ডাউনলোড লিংক:** [https://sourceforge.net/projects/mpv-net.mirror/](https://sourceforge.net/projects/mpv-net.mirror/)
+- ডাউনলোড করা `.exe` ফাইল রান করে ইনস্টল করুন।
+- ডিফল্ট সেটিংসেই ইনস্টল করুন।
 
-### 3. Download the M3U Playlist
+---
 
-Download the **`.m3u`** TV channel playlist file from this GitHub repository.
+### ধাপ ৩: TV অ্যাপ্লিকেশন ডাউনলোড করুন
+- এই গিটহাব রিপোজিটরির **Releases** সেকশনে যান।
+- সর্বশেষ `.exe` ফাইল ডাউনলোড করুন।
+- ফাইলটি আপনার কম্পিউটারের যেকোনো ফোল্ডারে সেভ করুন।
 
-### 4. Import the M3U File
+---
 
-Open the TV application and import the downloaded **`.m3u`** playlist.
+### ধাপ ৪: M3U প্লেলিস্ট সংগ্রহ করুন
+- আপনার নিজস্ব M3U প্লেলিস্ট URL বা `.m3u` ফাইল প্রস্তুত রাখুন।
+- (এই রিপোজিটরিতে থাকা ডেমো `.m3u` ফাইল ব্যবহার করতে পারেন, যদি থাকে)
 
-### 5. Enjoy Watching
+---
 
-After importing the playlist, the TV channels will be available to watch through the application.
+### ধাপ ৫: অ্যাপ চালু করুন ও প্লেলিস্ট ইম্পোর্ট করুন
+- `TV.exe` ফাইলে ডাবল-ক্লিক করে অ্যাপ চালু করুন।
+- অ্যাপের মেনু থেকে **"Load Playlist"** বা **"Import M3U"** অপশন নির্বাচন করুন।
+- আপনার `.m3u` ফাইল সিলেক্ট করুন অথবা URL পেস্ট করুন।
+- **"Open"** বা **"Load"** বাটনে ক্লিক করুন।
 
-> **Note:** The application requires both **MPV Media Player** and a valid **`.m3u` playlist** to function properly.
+---
+
+### ধাপ ৬: চ্যানেল দেখুন
+- প্লেলিস্ট লোড হলে চ্যানেলের তালিকা দেখাবে।
+- যেকোনো চ্যানেলে ক্লিক করলেই লাইভ স্ট্রিম শুরু হবে।
